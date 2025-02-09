@@ -5,4 +5,4 @@ Data is a valuable asset for organizations because it can be used to generate in
 How to measure data value
 Return on investment (ROI): Data value is measured by its financial impact on an organization. 
 Data lifecycle: The impact of data can vary depending on where in the data lifecycle it's invested. 
-Demographics: The value of data can vary depending on demographics, such as age, gender, income, and locatio
+Demographics: The value of data can vary depending on demographics, such as age, gender, income, and location
